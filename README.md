@@ -70,4 +70,4 @@ and helps me to utilize my skills towards the growth of the organization.
 [git]: https://git-scm.com/
 [github]: https://github.com/
 
-<img src="https://github-readme-stats.vercel.app/api?username=shuvankarroy&hide=stars&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shuvankarroy&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true"/>
