@@ -13,7 +13,7 @@ and helps me to utilize my skills towards the growth of the organization.
 - 🛠 My research interests includes Deep Neural Network, Medical Imaging, Machine Learning
 - 🔭 I’m currently working on a [Online Invoice Portal][onlineinvoiceportal]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other mindboggling projects
+- 👯 I’m looking to collaborate with any mindboggling projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new technologies, implement everything with less financial risk😅
 - 📣 My attentiveness includes : CPU, GPUs, PC Hardware🖥, Laptop💻, Techologies 
