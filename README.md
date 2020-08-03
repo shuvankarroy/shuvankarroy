@@ -32,7 +32,7 @@ and helps me to utilize my skills towards the growth of the organization.
 [<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/tensorflow.svg" />][tensorflow]
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/django.svg" />][django]
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/c.svg" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
+[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />][cpp]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -61,6 +61,7 @@ and helps me to utilize my skills towards the growth of the organization.
 [python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
 [django]: https://www.djangoproject.com/
+[cpp]: http://www.cplusplus.com/doc/tutorial/
 [javascript]: https://www.javascript.com/
 [nodejs]: https://nodejs.org/en/
 [vscode]: https://code.visualstudio.com/
