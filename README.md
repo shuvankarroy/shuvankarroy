@@ -9,9 +9,9 @@ To pursue a challenging career and be a part of a progressive organization that 
 and helps me to utilize my skills towards the growth of the organization.
 
 ### I'm a Programmer | Learner | Developer | Enthusiast | Codaholic
-- 🎢 My recent projects are [COVID-19 Predictor][covid19india]
+- 🎢 My recent projects are [COVID-19 Predictor][covid19india], [Online Invoice Portal][onlineinvoiceportal]
 - 🛠 My research interests includes Deep Neural Network, Medical Imaging, Machine Learning
-- 🔭 I’m currently working on a [Online Invoice Portal][onlineinvoiceportal]!
+- 🔭 I’m currently working on [Online Invoice Portal][onlineinvoiceportal]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with any mindboggling projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
