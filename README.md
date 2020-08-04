@@ -7,6 +7,8 @@
 ### Objective 🏹
 To pursue a challenging career and be a part of a progressive organization that gives scope to enhance my knowledge
 and helps me to utilize my skills towards the growth of the organization.
+<br/>
+<br/>
 
 ### I'm a Programmer | Learner | Developer | Enthusiast | Codaholic
 - 🎢 My recent projects are [COVID-19 Predictor][covid19india], [Online Invoice Portal][onlineinvoiceportal]
@@ -17,14 +19,16 @@ and helps me to utilize my skills towards the growth of the organization.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new technologies, implement everything with less financial risk😅
 - 📣 My attentiveness includes : CPU, GPUs, PC Hardware🖥, Laptop💻, Techologies 
-
+<br/>
+<br/>
 
 ### Connect with me:
 [<img align="left" alt="Shuvankar Roy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.4.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shuvankar Roy | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Shuvankar Roy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.4.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Shuvankar Roy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-<br />
+<br/>
+<br/>
 
 ### Languages and Technologies:
 
@@ -40,6 +44,7 @@ and helps me to utilize my skills towards the growth of the organization.
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 <br/>
+<br/>
 
 ### Tools:
 
@@ -49,8 +54,9 @@ and helps me to utilize my skills towards the growth of the organization.
 [<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jupyter.svg" />][jupyter]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-<br />
-<br />
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=shuvankarroy&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true"/>
 
 [covid19india]: https://covid-19-predictor-india.herokuapp.com/
 [onlineinvoiceportal]: https://online-invoice.herokuapp.com/
@@ -71,4 +77,4 @@ and helps me to utilize my skills towards the growth of the organization.
 [git]: https://git-scm.com/
 [github]: https://github.com/
 
-<img src="https://github-readme-stats.vercel.app/api?username=shuvankarroy&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true"/>
+
