@@ -23,6 +23,8 @@ and helps me to utilize my skills towards the growth of the organization.
 <br/>
 
 ### Connect with me:
+
+[<img align="left" alt="Google Scholar" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlescholar.svg" />][google_scholar]
 [<img align="left" alt="Shuvankar Roy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.4.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shuvankar Roy | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Shuvankar Roy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.4.0/icons/twitter.svg" />][twitter]
@@ -48,7 +50,6 @@ and helps me to utilize my skills towards the growth of the organization.
 
 ### Tools:
 
-[<img align="left" alt="Google Scholar" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlescholar.svg" />][google_scholar]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/anaconda.svg" />][anaconda]
 [<img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" />][spyder]
@@ -64,6 +65,7 @@ and helps me to utilize my skills towards the growth of the organization.
 [gmail]: mailto:shuvankarroy2@gmail.com?subject=[GitHub]%20From%20GitHub%20&body=Dear%20Shuvankar%20Roy%2C%0A
 [facebook]: https://www.facebook.com/shuvankar.roy.370
 [twitter]: https://twitter.com/shuvankarroy15
+[google_scholar]: https://scholar.google.com/citations?user=rpLjsXYAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/shuvankar-roy/
 [python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
@@ -77,6 +79,6 @@ and helps me to utilize my skills towards the growth of the organization.
 [jupyter]: https://jupyter.org/
 [git]: https://git-scm.com/
 [github]: https://github.com/
-[google_scholar]: https://scholar.google.com/citations?user=rpLjsXYAAAAJ&hl=en
+
 
 
