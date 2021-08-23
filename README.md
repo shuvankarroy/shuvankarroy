@@ -11,7 +11,7 @@ and helps me to utilize my skills towards the growth of the organization.
 <br/>
 
 ### I'm a Programmer | Learner | Developer | Enthusiast | Codaholic
-- 😎 Wanna know about me in detail? Click on either [My Resume][shuvankar_roy_resume], [My Curriculum Vitae][shuvankar_roy_cv]
+- 😎 Wanna know about me in detail? Click on either [My Resume][shuvankar_roy_resume] or [My Curriculum Vitae][shuvankar_roy_cv]
 - 🎢 My recent projects are [covid-india-predictor][covid19india], [Online Invoice Portal][onlineinvoiceportal]
 - 🛠 My research interests includes Deep Neural Network, Medical Image Analysis, Machine Learning
 - 🔭 I’m currently working on [Online Invoice Portal][onlineinvoiceportal]!
