@@ -11,6 +11,7 @@ and helps me to utilize my skills towards the growth of the organization.
 <br/>
 
 ### I'm a Programmer | Learner | Developer | Enthusiast | Codaholic
+- Wanna know about me? Click on [shuvankar_roy_cv]
 - 🎢 My recent projects are [covid-india-predictor][covid19india], [Online Invoice Portal][onlineinvoiceportal]
 - 🛠 My research interests includes Deep Neural Network, Medical Image Analysis, Machine Learning
 - 🔭 I’m currently working on [Online Invoice Portal][onlineinvoiceportal]!
@@ -79,6 +80,7 @@ and helps me to utilize my skills towards the growth of the organization.
 [jupyter]: https://jupyter.org/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[shuvankar_roy_cv]: https://media-exp1.licdn.com/dms/document/C562DAQEmS5evtCLDvw/profile-treasury-document-pdf-analyzed/0/1629746273261?e=1629835200&v=beta&t=ae0a8gWIED1lzeUspcw1mPnlfaFdnX7zVcWpPlGDW7U
 
 
 
