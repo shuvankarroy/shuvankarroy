@@ -11,7 +11,7 @@ and helps me to utilize my skills towards the growth of the organization.
 <br/>
 
 ### I'm a Programmer | Learner | Developer | Enthusiast | Codaholic
-- 🎢 My recent projects are [COVID-19 Predictor][covid19india], [Online Invoice Portal][onlineinvoiceportal]
+- 🎢 My recent projects are [covid-india-predictor][covid19india], [Online Invoice Portal][onlineinvoiceportal]
 - 🛠 My research interests includes Deep Neural Network, Medical Image Analysis, Machine Learning
 - 🔭 I’m currently working on [Online Invoice Portal][onlineinvoiceportal]!
 - 🌱 I’m currently learning everything 🤣
@@ -58,7 +58,7 @@ and helps me to utilize my skills towards the growth of the organization.
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=shuvankarroy&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true"/>
 
-[covid19india]: https://covid-19-predictor-india.herokuapp.com/
+[covid19india]: https://covid-india-predictor.web.app/
 [onlineinvoiceportal]: https://online-invoice.herokuapp.com/
 [gmail]: mailto:shuvankarroy2@gmail.com?subject=[GitHub]%20From%20GitHub%20&body=Dear%20Shuvankar%20Roy%2C%0A
 [facebook]: https://www.facebook.com/shuvankar.roy.370
