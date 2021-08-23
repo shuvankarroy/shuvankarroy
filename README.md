@@ -48,6 +48,7 @@ and helps me to utilize my skills towards the growth of the organization.
 
 ### Tools:
 
+[<img align="left" alt="Google Scholar" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlescholar.svg" />][google_scholar]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/anaconda.svg" />][anaconda]
 [<img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png" />][spyder]
@@ -76,5 +77,6 @@ and helps me to utilize my skills towards the growth of the organization.
 [jupyter]: https://jupyter.org/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[google_scholar]: https://scholar.google.com/citations?user=rpLjsXYAAAAJ&hl=en
 
 
